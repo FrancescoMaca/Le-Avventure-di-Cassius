@@ -18,11 +18,13 @@ Installation game steps (Once you've downloaded the emulator):\
 4 - Open the `.asm` file and press **run**\
 5 - Enjoy the game! 🎉
 
-## Gameplay screenshots
+## Game screenshots
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Cassius_Main.png" alt="Cassius Welcome" width=450>
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Cassius_Settings.png" alt="Cassius Settings" width=450>
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Cassius_Gameplay1.png" alt="Cassius Gameplay" width=450>
+<img src="https://github.com/FrancescoMaca/Le-Avventure-di-Cassius/blob/main/screenshots/menu.png" alt="Loading Screen" width=450>
+<img src="https://github.com/FrancescoMaca/Le-Avventure-di-Cassius/blob/main/screenshots/settings.png" alt="Loading Screen" width=450>
+<img src="https://github.com/FrancescoMaca/Le-Avventure-di-Cassius/blob/main/screenshots/how-to-play.png" alt="How To Play" width=450>
+<img src="https://github.com/FrancescoMaca/Le-Avventure-di-Cassius/blob/main/screenshots/character-creation.png" alt="Character Creaton" width=450>
+<img src="https://github.com/FrancescoMaca/Le-Avventure-di-Cassius/blob/main/screenshots/loading-screen.png" alt="Loading Screen" width=450>
 
 ## Bugs
 
